@@ -1,0 +1,25 @@
+{
+  "name": "serv_crud",
+  "version": "1.0.0",
+  "description": "API CRUD simples para gerenciamento de alunos, desenvolvida com Node.js e Express, permitindo criar, listar, atualizar e deletar registros.",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "teste": "node servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipesalvador-dev/serv_crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/felipesalvador-dev/serv_crud/issues"
+  },
+  "homepage": "https://github.com/felipesalvador-dev/serv_crud#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
